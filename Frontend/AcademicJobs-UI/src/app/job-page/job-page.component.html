@@ -1,0 +1,57 @@
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<h1 class="job-name">
+    <div class="tooltip">
+        <mat-icon>info</mat-icon>
+        <span class="tooltiptext">{{tooltip}}</span>
+    </div>
+    {{jobData.name }}
+</h1>
+<div class="labels">
+    <a class="apply-button" (click)="goToJobSite()">
+        Apply Now
+    </a>
+    <button class="want-to-apply-button-blue labels" *ngIf="!wantToApply && isLoggedIn()"  (click)="addWantToApply()">
+        <mat-icon>work</mat-icon>Want to Apply
+    </button>
+    <button class="want-to-apply-button-red labels" *ngIf="wantToApply && isLoggedIn()"  (click)="deleteWantToApply()">
+        <mat-icon>work</mat-icon>Want to Apply
+    </button>
+    <button class="like-button labels" *ngIf="!isLiked  && isLoggedIn()" (click)=likeJob()>
+        <mat-icon>thumb_up</mat-icon>
+    </button>
+    <button class="dislike-button labels" *ngIf="isLiked  && isLoggedIn()" (click)=removeLike()>
+        <mat-icon>thumb_up</mat-icon>
+    </button>
+    <div class="label labels" *ngFor="let label of labels">
+        <button (click)="deleteLabel(label)">
+            <mat-icon>label_important</mat-icon>{{label}}
+        </button>
+    </div>
+    <div class="add-label labels" *ngIf="isLoggedIn()">
+        <input [(ngModel)]="label" (keyup.enter)="addLabel();" placeholder="Label Name"/>
+        <button (click)="addLabel()">
+            Add Label
+        </button>
+    </div>
+    <div class="loading labels">
+        {{loading2}}
+    </div>
+</div>
+<div class="loading">
+    {{loading1}}
+</div>
+<div class="details">
+    <tr>Location: {{jobData.location }} - {{jobData.job_location}}</tr>
+    <tr>Publish Date: {{jobData.publishdate}}</tr>
+    <tr>Deadline: {{jobData.deadline}}</tr>
+    <tr>Employer: {{jobData.employer}}</tr>
+    <tr>Fields: {{jobData.fields}}</tr>
+</div>
+
+<div class="job-description" [innerHTML]="jobData.jobhtml">
+    
+</div>
+<div class="job-description" *ngIf="!jobData.jobhtml">
+    {{jobData.jobdescription}}
+</div>

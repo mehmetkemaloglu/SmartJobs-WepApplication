@@ -1,0 +1,44 @@
+
+.second-top {
+  background-color: #334953;
+  width: 100%;
+  margin-left: 0px !important;
+  margin-top: -20px;
+  min-height: 83px;  
+  
+}
+
+  nav a {
+    padding: 10px 20px;
+    text-decoration: none;
+    margin-top: 18px;
+    margin-bottom: 10px;
+    display: inline-block;
+    background-color: #eee;
+    border-radius: 2px;
+    font-size: 23px;
+    margin-left: 16px;
+  }
+  nav a:visited, a:link {
+    color: #334953;
+  }
+  nav a:hover {
+    color: #039be5;
+    background-color: #CFD8DC;
+    //opacity: 0.7;
+  }
+  nav a.active {
+    color: #039be5;
+    box-shadow: 0 3px 0 #00823F;
+    top: 3px;
+  }
+
+.second-nav{
+  margin-left: 160px;
+}
+
+  
+  
+  
+  
+ 

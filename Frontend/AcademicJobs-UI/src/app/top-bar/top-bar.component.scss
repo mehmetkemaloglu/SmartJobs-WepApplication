@@ -1,0 +1,28 @@
+nav a {
+    padding: 5px 10px;
+    text-decoration: none;
+    margin-top: 20px;
+    display: inline-block;
+    background-color: #eee;
+    border-radius: 40px;
+    margin-right: 20 px; 
+  }
+  nav a:visited, a:link {
+    color: #334953;
+  }
+  nav a:hover {
+    color: #039be5;
+    background-color: #CFD8DC;
+    opacity: 1.0 !important;
+  }
+  nav a.active {
+    color: #039be5;
+  }
+  img {
+    max-width: 156px !important;
+    margin-left: -30px !important;
+    margin-top: 80px !important ;
+  }
+  a:hover {
+    opacity: 1;
+  }

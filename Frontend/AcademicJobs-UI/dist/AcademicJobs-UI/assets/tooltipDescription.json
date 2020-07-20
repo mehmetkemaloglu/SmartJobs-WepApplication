@@ -1,0 +1,17 @@
+{
+    "inbox":"On this page, you can view all of the jobs of previously saved searches. These jobs are updated every night. Some of them are recommended for you according to your previously liked jobs.",
+    
+    "search":"On this page, you can search jobs by keyword, country, field, and type. This will take some time because the data comes from 3 other websites. If you don't want to wait, there are quick search buttons for already searched queries (You need to click Switch Button). After your search, if you like to see these kind of results in your inbox, you can save the query. Then you can manage your saved queries from 'Search Queries' page. ",
+    
+    "wantToApply":"On this page, you can view the jobs you want to apply. You can delete the jobs by clicking the delete icon. Alternatively you can control the calendar to see deadline of these jobs.  ",
+    
+    "liked":"On this page, you can view the jobs you liked. You can delete the jobs by clicking the delete icon. Liked jobs are used in the recommendation of jobs in your inbox.",
+    
+    "labeled":"On this page, you can view the labeled jobs. At first all labels are selected to view. Your first click to a label unselects other labels. Then you can select multiple labels by clicking them. If you click to a label second time, that label will be unselected. The jobs you view are jobs of the selected labels.(At least one of the selected labels is added to these jobs). Also you can delete last selected label from all of the jobs.",
+    
+    "searchQueries":"On this page, you can view the queries you save in search page. You can delete them or change the keyword of them. Result of these queries are taken from 3 websites and you can view them from inbox. Inbox will be updated every night and if another job enters to the result of these queries, you will able to view them from inbox after the update. There is also quick update button, if you don't want to wait.",
+    
+    "jobPage":"On this page, you can view the job details, select, and unselect like and 'Want to Apply', and add and remove labels to the job if you are logged in.",
+
+    "login":"You should login to enable all features. If you don't have an account, please sign up."
+}

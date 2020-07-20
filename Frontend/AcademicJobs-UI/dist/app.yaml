@@ -1,0 +1,16 @@
+runtime: python27
+api_version: 1
+threadsafe: true
+handlers:
+- url: /(.*\.(gif|jpg|css|js)(|\.map))$
+  static_files: AcademicJobs-UI/\1
+  upload: AcademicJobs-UI/(.*)(|\.map)
+- url: /(.*)
+  static_files: AcademicJobs-UI/index.html
+  upload: AcademicJobs-UI/index.html
+- url: /
+  static_dir: AcademicJobs-UI
+- url: /(.*\.png)
+  mime_type: image/png
+  static_files: AcademicJobs-UI/assets/\1
+  upload: AcademicJobs-UI/assets/(.*\.png)

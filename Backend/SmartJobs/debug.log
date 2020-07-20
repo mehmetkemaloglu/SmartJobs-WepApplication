@@ -1,0 +1,4 @@
+[0420/210954.184:ERROR:process_reader_win.cc(123)] NtOpenThread: {Erisim Yok} Bir islem bir nesneye erismek istedi, ancak istedigi erisimin haklari kendisine verilmis degil. (0xc0000022)
+[0420/210954.186:ERROR:exception_snapshot_win.cc(98)] thread ID 27428 not found in process
+[0420/210954.207:ERROR:process_reader_win.cc(123)] NtOpenThread: {Erisim Yok} Bir islem bir nesneye erismek istedi, ancak istedigi erisimin haklari kendisine verilmis degil. (0xc0000022)
+[0420/210954.207:ERROR:exception_snapshot_win.cc(98)] thread ID 60116 not found in process

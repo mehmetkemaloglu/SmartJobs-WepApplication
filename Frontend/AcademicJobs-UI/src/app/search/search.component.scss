@@ -1,0 +1,146 @@
+.search-bar{
+    
+}
+
+.title-component{
+  display: inline-block;
+}
+
+.switch-button{
+  margin-left: 40px;
+  margin-bottom: 30px;
+  background-color: #ff7e00;
+  color: black;
+}
+
+
+.grid-container{
+    margin-top: 10px;
+    margin-left: 0px;
+    display: grid;
+    grid-template-columns: 0.25fr 0.3fr;
+}
+.button-save{
+    margin-top: 50px;
+    margin-left: 100px;
+
+}
+
+.selected-page{
+  background-color: #ffff66;
+}
+
+.employer{
+  margin-left: 30px;
+}
+
+.quick-search-buttons{
+  button{
+    background-color: 86007d;
+    color:white;
+  }
+  
+  width: 120%;
+  display: grid;
+  grid-template-columns: 1.5fr 1.4fr 1.4fr 1.4fr;
+  padding: 10px 32px;
+  border-radius: 2px;
+  margin-top: 20px;
+  font-size: 15px;
+  text-align: center;
+}
+
+
+
+.button-keyword{
+  color: white;
+  //background-color: ff0018;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 250px;
+}
+.button-location{
+  //background-color: ffa52c;
+  //white-space: nowrap;
+  overflow: hidden;
+  width: 200px;
+}
+.button-field{
+  //background-color: ffff41;
+  //white-space: nowrap;
+  overflow: hidden;
+  width: 200px;
+}
+.button-jobType{
+  color: white;
+  //background-color: 008018;
+  text-align: center;
+  //white-space: nowrap;
+  overflow: hidden;
+  width: 200px;
+}
+
+.quick-search-bar{
+  background-color: 3055B8;
+  color:FCF112;
+  width: 120%;
+  max-width: 925px;
+  display: grid;
+  grid-template-columns: 1.5fr 1.4fr 1.4fr 1.4fr;
+  padding: 16px 17px;
+  border-radius: 2px;
+  margin-top: 20px;
+  margin-left: 50px;
+  font-size: 18px;
+  text-align: center;
+}
+
+
+
+.bar-keyword{
+  //color: white;
+  //background-color: ff0018;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 250px;
+}
+.bar-location{
+  //background-color: ffa52c;
+  //white-space: nowrap;
+  overflow: hidden;
+  width: 200px;
+}
+.bar-field{
+  //background-color: ffff41;
+  //white-space: nowrap;
+  overflow: hidden;
+  width: 200px;
+}
+.bar-jobType{
+  //color: white;
+  //background-color: 008018;
+  text-align: center;
+  //white-space: nowrap;
+  overflow: hidden;
+  width: 200px;
+}
+
+.column-title{
+  max-width: 1000px;
+}
+
+.job-row{
+  max-width: 1000px;
+}
+.job-title{
+  max-width: 1000px;
+}
+
+.target-point{
+  margin-top: 720px ;
+  float: left;
+}
+.target-container{
+  //display: inline-flex;
+}
+

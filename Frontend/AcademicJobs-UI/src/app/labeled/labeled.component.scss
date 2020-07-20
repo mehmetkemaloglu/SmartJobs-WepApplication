@@ -1,0 +1,65 @@
+
+
+.label{
+    margin-top: 15px;
+    text-align:center;
+    display: inline-block;
+}
+.labels{
+    margin-top: 10px;
+    margin-left: -5px;
+    max-width: 1000px;
+    
+}
+.label-container{
+    margin-top: 20px;
+}
+.label-title{
+    display: grid;
+    grid-template-columns: 300px 100px;
+    
+}
+.delete-button{
+    margin-top: 10px;
+    width: fit-content;
+    height: fit-content;
+    min-height: 50px;
+    background-color: red;
+    border-radius: 50px;
+    text-align:center;
+}
+
+
+.label-button{
+    padding-left: 0px;;
+    background-color: green;
+    box-shadow: 7px 6px 28px 1px rgba(0, 0, 0, 0.24);
+    transition: 0.2s all;
+}
+.label-button:visited, button:link {
+    color: #334953;
+  }
+.label-button:hover {
+    opacity: 0.6;
+}
+
+.red-label{
+    background-color: chartreuse;
+}
+
+.selected-page{
+    background-color: #ffff66;
+  }
+
+
+.employer{
+    margin-left: 30px;
+}
+
+.title-component{
+    margin-left: 30px;
+  }
+
+
+
+  

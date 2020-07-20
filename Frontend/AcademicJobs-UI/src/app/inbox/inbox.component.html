@@ -1,0 +1,44 @@
+<div class="title-component">
+    <h1>Inbox
+        <div class="tooltip">
+            <mat-icon >info</mat-icon>
+            <span class="tooltiptext">{{tooltip}}</span>
+        </div>
+    </h1>
+    
+   
+</div>
+
+<div class="column-title">
+    <div class="title-unit">
+        Job
+    </div>
+    <div class="title-unit title-unit-2">
+        Closing Date
+    </div>
+    <div class="title-unit title-unit-3">
+        Recommended
+    </div>   
+</div>
+
+<div   *ngFor="let job of viewedQueries">
+    <div [class.visited-job]="!job.visited" class="job-row">
+        <div class=job-title (click)="goToJobSite(job)">
+            {{job.name}}
+        </div>
+        <span class="job-dueDate">
+            {{job.deadline}}
+        </span>
+        <div class="recommendation" *ngIf="job.recommended===1">
+            <mat-icon class="green-icon">check_circle</mat-icon>    
+        </div>
+    </div>
+</div>
+
+<div class="page-bar" >  
+    <div class="num-box " *ngFor="let i of nums">
+      <button [class.selected-page]="i === currentPage" class="num-box " (click)="selectPage(i)">
+        {{ i }}
+      </button>
+    </div>
+</div>

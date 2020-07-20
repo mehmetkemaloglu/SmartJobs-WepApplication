@@ -1,0 +1,1026 @@
+===============================================================
+46 Full-time PhD Position in Augmented Reality assisted wireless monitoring and analytics for structural health
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 32.68421052631579
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 34.60526315789474
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 37.78947368421053
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 39.05263157894737
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 32.68421052631579
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 37.78947368421053
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 34.60526315789474
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 39.05263157894737
+
+===============================================================
+===============================================================
+109 Junior Research Group Leader positions at MPI for Security and Privacy
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 21.657894736842106
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 21.92105263157895
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 25.18421052631579
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 25.210526315789473
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 21.657894736842106
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 25.18421052631579
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 21.92105263157895
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 25.210526315789473
+
+===============================================================
+===============================================================
+154 Postdoctoral Researcher in Computer Vision and/or Human Computer Interaction
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 11.263157894736842
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 12.868421052631579
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 14.289473684210526
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 16.342105263157894
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 11.263157894736842
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 14.289473684210526
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 12.868421052631579
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 16.342105263157894
+
+===============================================================
+===============================================================
+161 Faculty members in Design or Design Innovation
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 22.236842105263158
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 26.0
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 27.236842105263158
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 31.13157894736842
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 22.236842105263158
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 27.236842105263158
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 26.0
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 31.105263157894736
+
+===============================================================
+===============================================================
+164 Postdoctoral Researcher, developing methods for complex multipoint calibration, applications in radio frequency (RF) system architectures
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 31.0
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 35.3421052631579
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 33.81578947368421
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 35.94736842105263
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 31.0
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 33.81578947368421
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 35.3421052631579
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 35.94736842105263
+
+===============================================================
+===============================================================
+178 Postdoc position, Tomographic Image Reconstruction
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 14.236842105263158
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 16.263157894736842
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 18.736842105263158
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 20.973684210526315
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 14.236842105263158
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 18.736842105263158
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 16.263157894736842
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 20.973684210526315
+
+===============================================================
+===============================================================
+179 PhD student, Phase Contrast X-ray Computational Imaging
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 16.31578947368421
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 18.18421052631579
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 20.13157894736842
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 23.0
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 16.31578947368421
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 20.13157894736842
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 18.18421052631579
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 23.0
+
+===============================================================
+===============================================================
+306 Rolls-Royce sponsored PhD scholarship – Mechatronics system for hybrid manufacturing processing
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 22.105263157894736
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 25.657894736842106
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 21.236842105263158
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 25.63157894736842
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 22.105263157894736
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 21.236842105263158
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 25.657894736842106
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 25.63157894736842
+
+===============================================================
+===============================================================
+341 PhD candidate in International Relations / International Political Sociology (Digital Methods)
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 14.026315789473685
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 12.921052631578947
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 17.36842105263158
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 22.0
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 14.026315789473685
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 17.36842105263158
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 12.921052631578947
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 22.0
+
+===============================================================
+===============================================================
+342 Post-Doctoral Researcher in International Political Sociology (Visual Methods)
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 12.578947368421053
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 13.236842105263158
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 18.55263157894737
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 23.36842105263158
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 12.578947368421053
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 18.55263157894737
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 13.236842105263158
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 23.36842105263158
+
+===============================================================
+===============================================================
+381 Postdoctoral Researcher in Natural Language Processing
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 18.31578947368421
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 21.710526315789473
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 21.0
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 22.5
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 18.31578947368421
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 21.0
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 21.710526315789473
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 22.5
+
+===============================================================
+===============================================================
+449 High Research Achieving Computer Science Associate/Professor Position
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 18.236842105263158
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 22.5
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 22.55263157894737
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 26.605263157894736
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 18.236842105263158
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 22.55263157894737
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 22.5
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 26.605263157894736
+
+===============================================================
+===============================================================
+454 Fully funded PhD studentship | 3D human pose estimation and shape reconstruction for biomechanics |
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 14.394736842105264
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 16.92105263157895
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 18.07894736842105
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 21.157894736842106
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 14.394736842105264
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 18.07894736842105
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 16.92105263157895
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 21.157894736842106
+
+===============================================================
+===============================================================
+523 6 PhD positions on Computer Vision at the Italian Institute of Technology (IIT) - PAVIS
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 14.763157894736842
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 15.81578947368421
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 19.94736842105263
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 21.13157894736842
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 14.763157894736842
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 19.94736842105263
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 15.81578947368421
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 21.13157894736842
+
+===============================================================
+===============================================================
+598 Professorship (W 2) for Computer Vision for media applications
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 9.447368421052632
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 7.105263157894737
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 8.31578947368421
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 7.605263157894737
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 9.447368421052632
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 8.31578947368421
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 7.105263157894737
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 7.605263157894737
+
+===============================================================
+===============================================================
+656 Assistant/Associate/ Full Professor of Digital Forensics
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 20.842105263157894
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 22.18421052631579
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 22.05263157894737
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 23.92105263157895
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 20.842105263157894
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 22.05263157894737
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 22.18421052631579
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 23.92105263157895
+
+===============================================================
+===============================================================
+746 PhD positions in the frame of the PRIDE grant “Active phenomena across scales in biological systems”
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 40.86842105263158
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 42.76315789473684
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 37.44736842105263
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 37.68421052631579
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 40.86842105263158
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 37.44736842105263
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 42.76315789473684
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 37.68421052631579
+
+===============================================================
+===============================================================
+837 Research Associate (Postdoc) in Natural Language Processing and Machine Learning
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 27.86842105263158
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 28.473684210526315
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 32.18421052631579
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 31.894736842105264
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 27.86842105263158
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 32.18421052631579
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 28.473684210526315
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 31.894736842105264
+
+===============================================================
+===============================================================
+843 Postdoc position in Computational Tomographic Imaging - 2020BAPFWETEF149
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 15.105263157894736
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 17.05263157894737
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 19.026315789473685
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 20.789473684210527
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 15.105263157894736
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 19.026315789473685
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 17.05263157894737
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 20.789473684210527
+
+===============================================================
+===============================================================
+876 Postdoc position in Computational Tomographic Imaging - 2020BAPFWETEF149
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 14.921052631578947
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 17.05263157894737
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 18.236842105263158
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 20.789473684210527
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 14.921052631578947
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 18.236842105263158
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 17.05263157894737
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 20.789473684210527
+
+===============================================================
+===============================================================
+890 Professor Computer Science, Cost-efficient and Data-efficient Solutions for Machine Learning and Artificial Intelligence
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 20.763157894736842
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 22.57894736842105
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 24.92105263157895
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 25.92105263157895
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 20.763157894736842
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 24.86842105263158
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 22.57894736842105
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 25.92105263157895
+
+===============================================================
+===============================================================
+944 Senior Researcher* – Machine Learning for Image-Based Scene Reconstruction
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 17.05263157894737
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 18.473684210526315
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 17.57894736842105
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 19.42105263157895
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 17.05263157894737
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 17.57894736842105
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 18.473684210526315
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 19.42105263157895
+
+===============================================================
+===============================================================
+945 Postdoctoral Researcher* Machine Learning for Image Based Scene Reconstruction
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 16.44736842105263
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 18.026315789473685
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 17.5
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 19.342105263157894
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 16.44736842105263
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 17.5
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 18.026315789473685
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 19.342105263157894
+
+===============================================================
+===============================================================
+948 Research Associate* – Efficient machine learning for speech and audio signal processing
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 22.18421052631579
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 28.42105263157895
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 23.157894736842106
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 27.289473684210527
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 22.18421052631579
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 23.157894736842106
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 28.42105263157895
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 27.289473684210527
+
+===============================================================
+===============================================================
+951 Research Position on Artificial Intelligence for Robotic Re- and Demanufacturing of Electric Car Batteries
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 20.105263157894736
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 24.763157894736842
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 24.57894736842105
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 27.763157894736842
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 20.105263157894736
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 24.57894736842105
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 24.763157894736842
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 27.763157894736842
+
+===============================================================
+===============================================================
+992 Video Coding System Architect
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 19.13157894736842
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 26.05263157894737
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 19.63157894736842
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 23.81578947368421
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 19.13157894736842
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 19.63157894736842
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 26.05263157894737
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 23.842105263157894
+
+===============================================================
+===============================================================
+1219 Faculty Positions in Electrical Engineering 2020
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 22.5
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 23.342105263157894
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 28.07894736842105
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 28.36842105263158
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 22.5
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 28.07894736842105
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 23.342105263157894
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 28.36842105263158
+
+===============================================================
+===============================================================
+1325 PhD opening in Computer Vision
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 22.13157894736842
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 27.105263157894736
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 25.263157894736842
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 28.57894736842105
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 22.13157894736842
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 25.263157894736842
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 27.105263157894736
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 28.57894736842105
+
+===============================================================
+===============================================================
+1327 4 PhD Positions in Machine Learning and Computer Vision
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 11.921052631578947
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 13.105263157894736
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 13.447368421052632
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 15.368421052631579
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 11.921052631578947
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 13.447368421052632
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 13.105263157894736
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 15.368421052631579
+
+===============================================================
+===============================================================
+1427 Senior Scientist (m/f/d) Computational Imaging
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 9.763157894736842
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 12.052631578947368
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 12.236842105263158
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 13.973684210526315
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 9.763157894736842
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 12.236842105263158
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 12.052631578947368
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 13.947368421052632
+
+===============================================================
+===============================================================
+1493 Senior Researcher Machine Learning for Image-based Scene Reconstruction
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 16.07894736842105
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 17.94736842105263
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 16.68421052631579
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 19.394736842105264
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 16.07894736842105
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 16.68421052631579
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 17.94736842105263
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 19.394736842105264
+
+===============================================================
+===============================================================
+1504 Research Associate ? Efficient machine learning for speech and audio signal processing
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 22.526315789473685
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 28.42105263157895
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 22.105263157894736
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 27.289473684210527
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 22.526315789473685
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 22.105263157894736
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 28.42105263157895
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 27.289473684210527
+
+===============================================================
+===============================================================
+1515 Academic Director (Chair) of the Departments of Electrical and Mechatronic Engineering
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 22.394736842105264
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 27.526315789473685
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 21.789473684210527
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 25.289473684210527
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 22.394736842105264
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 21.789473684210527
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 27.526315789473685
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 25.289473684210527
+
+===============================================================
+===============================================================
+1522 PhD position, Deep Learning and Model based Biomedical Imaging - 2019BAPFWETEF246
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 14.789473684210526
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 18.473684210526315
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 17.342105263157894
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 20.105263157894736
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 14.789473684210526
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 17.342105263157894
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 18.473684210526315
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 20.105263157894736
+
+===============================================================
+===============================================================
+1596 PhD position: LEMUR : LEarning universal MUltimodal Representations of texts and images
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 13.473684210526315
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 15.578947368421053
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 18.236842105263158
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 21.394736842105264
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 13.473684210526315
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 18.236842105263158
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 15.578947368421053
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 21.394736842105264
+
+===============================================================
+===============================================================
+1597 Academic Director of the Department of Computer Science & Director of the Research Center for Computational Sustainability
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 21.5
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 23.842105263157894
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 25.289473684210527
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 27.36842105263158
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 21.5
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 25.289473684210527
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 23.842105263157894
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 27.36842105263158
+
+===============================================================
+===============================================================
+1598 Postdoc position, Tomographic Image Reconstruction
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 14.078947368421053
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 16.263157894736842
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 19.105263157894736
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 20.973684210526315
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 14.078947368421053
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 19.105263157894736
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 16.263157894736842
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 20.973684210526315
+
+===============================================================
+===============================================================
+1599 4 fulltime PhD research positions at Erasmus School of Law
+withoutStopWords=True onlyNouns=True withFields=True
+Error measure: 21.92105263157895
+
+withoutStopWords=True onlyNouns=True withFields=False
+Error measure: 28.157894736842106
+
+withoutStopWords=True onlyNouns=False withFields=True
+Error measure: 23.263157894736842
+
+withoutStopWords=True onlyNouns=False withFields=False
+Error measure: 30.36842105263158
+
+withoutStopWords=False onlyNouns=True withFields=True
+Error measure: 21.92105263157895
+
+withoutStopWords=False onlyNouns=False withFields=True
+Error measure: 23.263157894736842
+
+withoutStopWords=False onlyNouns=True withFields=False
+Error measure: 28.157894736842106
+
+withoutStopWords=False onlyNouns=False withFields=False
+Error measure: 30.394736842105264
+
+===============================================================

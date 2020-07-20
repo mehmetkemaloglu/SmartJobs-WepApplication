@@ -1,0 +1,33 @@
+<div class="login-container">
+    <h1>
+        Login
+        <div class="tooltip">
+            <mat-icon>info</mat-icon>
+            <span class="tooltiptext">{{tooltip}}</span>
+        </div>
+    </h1>
+    
+    <div>
+        <label>
+            Username
+        </label>
+        <input [(ngModel)]="username" (keyup.enter)="login()" placeholder="Username"/>
+    </div>
+    <div>
+        <label>
+            Password
+        </label>
+        <input type="password" [(ngModel)]="password" (keyup.enter)="login()" placeholder="Password"/>
+    </div>
+    
+    <button class="button-line" (click)="login()" >
+        Log in
+    </button>
+    <a class="button-line create-account" routerLink="/signup">
+        Create an Account
+    </a>
+    
+    <h2 >
+        {{message}}
+    </h2>
+</div>

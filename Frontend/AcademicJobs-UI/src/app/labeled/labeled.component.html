@@ -1,0 +1,61 @@
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<div class="title-component">
+    <h1>Labeled Jobs
+        <div class="tooltip">
+            <mat-icon>info</mat-icon>
+            <span class="tooltiptext">{{tooltip}}</span>
+        </div>
+    </h1>
+</div>
+
+<div class="loading">
+    {{loading}}
+  </div>
+
+<div class="labels">
+    <div class="label" *ngFor="let label of labels">
+        <button class="label-button green-label" (click)="selectLabel(label)" *ngIf="isSelected(label)">
+            <mat-icon>label_important</mat-icon>{{label}}
+        </button>
+        <button class="label-button red-label" (click)="selectLabel(label)" *ngIf="!isSelected(label)">
+            <mat-icon>label</mat-icon>{{label}}
+        </button>
+    </div>
+</div>
+
+<div class="label-container" *ngIf="labeledJobs">
+    <div class="label-title" *ngIf="selectedLabel">
+        <h1>
+            
+        </h1>
+        <button class="delete-button" (click)="deleteLabel()">
+            DELETE <br>{{selectedLabel}}
+        </button>
+    </div>
+    <div class="column-title">
+        <div class="title-unit">
+            Job
+        </div>
+        <div class="title-unit title-unit-2">
+            Closing Date
+        </div>
+        <div class="title-unit title-unit-3">
+            Employer
+        </div>   
+    </div>
+    
+    
+    <div class="job-row" *ngFor="let job of labeledJobs" >
+            <div class=job-title (click)="goToJobSite(job)" >
+                {{job.name}}
+            </div>
+            <span class="job-dueDate">
+                {{job.deadline}}
+            </span>
+            <div class="employer" >
+                {{job.employer}}
+            </div>
+    </div>
+</div>
+
+

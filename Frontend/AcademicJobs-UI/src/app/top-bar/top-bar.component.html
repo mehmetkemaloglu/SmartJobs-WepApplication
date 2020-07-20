@@ -1,0 +1,13 @@
+
+<a (click)="routeMainPageByLogo()">
+    
+    <img src="https://i.hizliresim.com/ghLBgI.png">
+  </a>
+<div class="top-nav-bar">
+  <nav>
+    <a *ngIf="!isLoggedIn()" routerLink="/login">Login</a>
+    <a *ngIf="!isLoggedIn()" routerLink="/signup">Sign up</a>
+    <a *ngIf="isLoggedIn()"(click)="logOut()">Log out</a>
+  </nav>
+</div>
+  

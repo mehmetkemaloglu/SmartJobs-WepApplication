@@ -1,0 +1,15 @@
+[
+    {
+        "keyword":"keyword1",
+        "country":"country1",
+        "field":"field1",
+        "jobType":"jobType1"
+    },
+    {
+        "keyword":"keyword12",
+        "country":"country2",
+        "field":"field2",
+        "jobType":"jobType2"
+    }
+
+]

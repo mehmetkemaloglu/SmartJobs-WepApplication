@@ -1,0 +1,27 @@
+<div class="signup-container">
+    <h1>
+        Sign Up
+    </h1>
+    <div>
+        <label>
+            Username
+        </label>
+        <input [(ngModel)]="username" (keyup.enter)="signUp()" placeholder="Username"/>
+    </div>
+    <div>
+        <label>
+            Password
+        </label>
+        <input type="password" [(ngModel)]="password"  placeholder="Password"/>
+        <label>
+            Password
+        </label>
+        <input type="password" [(ngModel)]="password2" (keyup.enter)="signUp()" placeholder="Confirm"/>
+    </div>
+    <button (click)="signUp()" >
+        Sign Up
+    </button>
+    <h2 class="loading">
+        {{message}}
+    </h2>
+</div>

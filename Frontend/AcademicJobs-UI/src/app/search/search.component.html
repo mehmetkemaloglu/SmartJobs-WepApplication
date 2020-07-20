@@ -1,0 +1,137 @@
+
+<div class="title-component" *ngIf="!isQuickSearch">
+    <h1 class="title-component">Search Academic Jobs
+        <div class="tooltip">
+            <mat-icon >info</mat-icon>
+            <span class="tooltiptext">{{tooltip}}</span>
+        </div>
+    </h1>
+    <button class="switch-button title-component" (click)="changeSearchMethod()" >
+        Switch to Quick Search
+    </button>
+</div>
+<div class="title-component" *ngIf="isQuickSearch">
+    <h1 class="title-component">Quick Search Academic Jobs
+        <div class="tooltip">
+            <mat-icon >info</mat-icon>
+            <span class="tooltiptext">{{tooltip}}</span>
+        </div>
+    </h1>
+    <button class="switch-button title-component" (click)="changeSearchMethod()" >
+        Switch to Customized Search
+    </button>
+</div>
+
+
+<div *ngIf="isQuickSearch">
+    <div class="quick-search-bar">
+        <div class="bar-keyword">Keyword</div>
+        <div class="bar-location">Country</div>
+        <div class="bar-field">Field</div>
+        <div class="bar-jobType">Job Type</div>
+    </div>
+    <div class="quick-search-buttons" *ngFor="let searchButton of quickSearchButtons; let id = index">
+        <button class="quick-search-button" (click)="getQuickSearchResults(searchButton,target)">
+            <div class="button-keyword">{{searchButton.keyword}}</div>
+            <div class="button-location">{{searchButton.location}}</div>
+            <div class="button-field">{{searchButton.fields}}</div>
+            <div class="button-jobType">{{searchButton.jobtypes}}</div>
+        </button>
+        
+    </div>
+</div>
+
+
+<div class="search-bar" *ngIf="!isQuickSearch">
+    <form [formGroup]="searchForm" (ngSubmit)="onSubmit()">
+
+        <div>
+            <input class="form-keyword" type="text"   placeholder="Keyword"  formControlName="keyword" size="50"/>
+            <button type="submit" [disabled]="!searchForm.valid">
+                GO!
+            </button>
+        </div>
+    
+        <div>
+            <select   placeholder="Keyword" formControlName="country" >
+                <option>
+                    -Country-
+                </option>
+                <option *ngFor="let country of countryList">
+                    {{country.country}}
+                </option>
+            </select>
+        </div>
+    
+        <div class="grid-container">
+            <div class="form-field">
+                <select  placeholder="Keyword" formControlName="field">
+                    <option *ngFor="let field of fieldList">
+                        {{field.field}}
+                    </option>
+                </select>
+            </div>
+            <div class="form-jobType">
+                <select  placeholder="Keyword" formControlName="jobType">
+                    <option *ngFor="let jobType of jobTypeList">
+                        {{jobType.jobType}}
+                    </option>
+                </select>
+            </div>
+            
+        </div>
+    </form>
+    
+</div>
+
+
+
+<h1 class="loading">
+    {{queryMessage}}
+</h1>
+<h1 class="loading">
+    {{loading}}
+</h1>
+
+<div #target class="target-container target-point"></div>
+<div class="job-table target-container" *ngIf="searchResults && isSearchResultAvailable() && undefined !== this.searchResults">
+    <div class="column-title">
+        <div class="title-unit">
+            Job
+        </div>
+        <div class="title-unit title-unit-2">
+            Closing Date
+        </div>
+        <div class="title-unit title-unit-3">
+            Employer
+        </div>   
+    </div>
+    
+    
+    <div class="job-row" *ngFor="let job of viewedJobs">
+        <div class=job-title (click)="goToJobSite(job)">
+            {{job.name}}
+        </div>
+        <div class="job-dueDate">
+            {{job.deadline}}
+        </div>
+        <div class="employer" >
+            {{job.employer}}
+        </div>
+    </div>
+
+    <div class="page-bar" >  
+        <div class="num-box " *ngFor="let i of nums">
+          <button [class.selected-page]="i === currentPage" class="num-box " (click)="selectPage(i)">
+            {{ i }}
+          </button>
+        </div>
+    </div>
+    
+    <button class="button-save" (click)="saveQuery()"  *ngIf="isLoggedIn()" >
+        SAVE QUERY
+    </button>
+    
+</div>
+
+
