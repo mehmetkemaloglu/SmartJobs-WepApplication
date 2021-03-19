@@ -15,7 +15,7 @@ dj-database-url==0.5.0
 Django==2.1.15
 django-heroku==0.3.1
 django-pyodbc-azure==2.1.0.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 docutils==0.15.2
 filelock==3.0.12
 gensim==3.8.3
